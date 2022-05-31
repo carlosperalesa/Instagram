@@ -1,0 +1,46 @@
+body {
+    background-color: beige;
+    margin: 0%;
+}
+
+.container {
+    width: 600px;
+    margin: auto;
+}
+
+div.container{
+    padding: 10px;
+}
+
+header {
+    background-color: white;
+}
+.titulo {
+    flex: none;
+}
+h1 {
+    margin: 0%;
+    padding: 10px;
+}
+h2 {
+    display: inline-block;
+    width: 70%;
+    margin:10px
+}
+p {
+    padding: 10px;
+}
+span {
+    display: inline-block;
+    width: 25%;
+    margin-right: 0px;
+    text-align: end;
+    color: grey;
+}
+.card {
+    background-color: white;
+}
+
+img {
+    width: 600px;
+}
