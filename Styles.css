@@ -8,19 +8,19 @@ body {
     margin: auto;
 }
 
-div.container{
-    padding: 10px;
-}
-
 header {
     background-color: white;
+    width: 100%;
+    margin: 0%;
 }
 .titulo {
     flex: none;
 }
 h1 {
     margin: 0%;
-    padding: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    padding-bottom: 10px;
 }
 h2 {
     display: inline-block;
@@ -29,6 +29,7 @@ h2 {
 }
 p {
     padding: 10px;
+    margin-top: 0%;
 }
 span {
     display: inline-block;
